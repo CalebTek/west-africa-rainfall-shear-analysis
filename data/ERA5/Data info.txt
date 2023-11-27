@@ -1,0 +1,59 @@
+Data -1 Total precipitation
+
+Request ID: 5f7c7ed5-b380-4f7f-9733-049f2654c028
+
+Product type:Monthly averaged reanalysis by hour of day
+
+Variable:Total precipitation
+
+Year:1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022
+
+Month:January, February, March, April, May, June, July, August, September, October, November, December
+
+Time:03:00, 06:00, 09:00, 15:00, 18:00
+
+Sub-region extraction:North 20°, West -20°, South -5°, East 25°
+
+Format:NetCDF (experimental)
+
+
+Data -2 V-component of wind
+
+Request ID: 4714f8f6-0149-4e3d-9d4b-6366e2521d03
+
+Product type:Monthly averaged reanalysis by hour of day
+
+Variable:V-component of wind
+
+Pressure level:200 hPa, 800 hPa
+
+Year:1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022
+
+Month:January, February, March, April, May, June, July, August, September, October, November, December
+
+Time:03:00, 06:00, 09:00, 15:00, 18:00
+
+Sub-region extraction:North 20°, West -20°, South -5°, East 25°
+
+Format:NetCDF (experimental)
+
+
+Data -3 U-component of wind
+
+Request ID: 1909c8a4-6642-4cb3-a097-fdf4189f9dde
+
+Product type:Monthly averaged reanalysis by hour of day
+
+Variable:U-component of wind
+
+Pressure level:200 hPa, 800 hPa
+
+Year:1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022
+
+Month:January, February, March, April, May, June, July, August, September, October, November, December
+
+Time:03:00, 06:00, 09:00, 15:00, 18:00
+
+Sub-region extraction:North 20°, West -20°, South -5°, East 25°
+
+Format:NetCDF (experimental)

@@ -1,0 +1,49 @@
+Data -1 Mean precipitation flux
+
+Request ID: 63cc2788-fd4f-4083-9960-804be7604301
+
+Experiment:RCP 4.5
+
+Variable:Mean precipitation flux
+
+Model:GFDL-CM2p1 (NOAA, USA)
+
+Ensemble member:r10i1p1
+
+Period:200601-201012, 201101-201512, 201601-202012
+
+Format:Zip file (.zip)
+
+
+Data -2 V-component of wind
+
+Request ID: 56aa842d-6660-4be2-890a-8b00dc070418
+
+Experiment:RCP 4.5
+
+Variable:V-component of wind
+
+Model:GFDL-CM2p1 (NOAA, USA)
+
+Ensemble member:r10i1p1
+
+Period:200601-201012, 201101-201512, 201601-202012
+
+Format:Zip file (.zip)
+
+
+Data -3 U-component of wind
+
+Request ID: ce87febf-d438-458a-bfaf-f6d8e27dbc0e
+
+Experiment:RCP 4.5
+
+Variable:U-component of wind
+
+Model:GFDL-CM2p1 (NOAA, USA)
+
+Ensemble member:r10i1p1
+
+Period:200601-201012, 201101-201512, 201601-202012
+
+Format:Zip file (.zip)
