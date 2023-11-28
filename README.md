@@ -91,8 +91,8 @@ This repository contains code and data for a research project exploring the rela
 
 Both detailed results and key findings can be found in the following Jupyter Notebooks:
 
-- [CMIPS Analysis](./CMIPS_Analysis.ipynb)
-- [ERA5 Analysis](./ERA5_Analysis.ipynb)
+- [CMIPS Analysis](CMIP5_Analysis.ipynb)
+- [ERA5 Analysis](ERA5_Analysis.ipynb)
 
 Navigate to these notebooks to explore in-depth analyses, visualizations, and insights into the relationship between boundary layer vertical wind shear and rainfall onset over West Africa.
 
