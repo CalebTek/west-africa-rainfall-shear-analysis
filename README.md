@@ -84,12 +84,21 @@ This repository contains code and data for a research project exploring the rela
 - **Period:** 200601-201012, 201101-201512, 201601-202012
 - **Format:** Zip file (.zip)
 
+## Data Methodology
+
+Data methodology can be found in the following Markdown:
+
+- [Data Methodology](Data_Methodology.md)
 
 ## Results
 
+Result can be found in the following Markdown:
+
+- [Results](Result.md)
+
 ### Key Findings
 
-Both detailed results and key findings can be found in the following Jupyter Notebooks:
+Key findings can be found in the following Jupyter Notebooks:
 
 - [CMIPS Analysis](CMIP5_Analysis.ipynb)
 - [ERA5 Analysis](ERA5_Analysis.ipynb)
