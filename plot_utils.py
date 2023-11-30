@@ -8,8 +8,6 @@ import seaborn as sns
 import os
 
 
-
-
 def convert_time_to_numeric(time_values):
     """
     Converts an array of time values to numeric values.

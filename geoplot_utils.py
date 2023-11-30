@@ -1,7 +1,14 @@
 import matplotlib.pyplot as plt
 import cartopy.crs as ccrs
 import xarray as xr
+import numpy as np
 import os
+
+
+def generate_array(start, num_output):
+    start += 1.25
+    return np.array([start + 2.5 * i for i in range(num_output)])
+
 
 def plot_cartopy(data, variable_label, save_dir=None, unit=''):
     """
@@ -28,6 +35,9 @@ def plot_cartopy(data, variable_label, save_dir=None, unit=''):
     # Add coastlines, gridlines, etc.
     ax.coastlines()
     ax.gridlines(draw_labels=True)
+
+    # Set the title
+    ax.set_title(f'Mean {variable_label} West Africa')
 
 
     # Save the figure if save_dir is provided
